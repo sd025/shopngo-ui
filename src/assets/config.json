@@ -1,0 +1,17 @@
+[
+	{
+		"index": "01",
+		"title": ["Scan", "Items"],
+		"slug": "scanitems"
+	},
+	{
+		"index": "02",
+		"title": ["Your", "Cart"],
+		"slug": "yourcart"
+	},
+	{
+		"index": "03",
+		"title": ["Payment", "Portal"],
+		"slug": "paymentportal"
+	}
+]

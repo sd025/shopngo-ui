@@ -1,6 +1,6 @@
 import React from 'react'
 import './Landing.css'
-import sale from './assets/sale-2.png'
+import sale from './assets/sale.png'
 import shopping from './assets/shopping-3.png'
 import logo from './assets/logo.png'
 import AnimatedText from '../utils/AnimatedText'
